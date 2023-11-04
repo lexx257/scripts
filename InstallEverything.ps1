@@ -4,3 +4,4 @@ winget install Discord.Discord --force --silent
 winget install Valve.Steam --force --silent
 winget install ndd.Notepad-- --force --silent
 winget install Spotify.Spotify --force --silent
+irm https://christitus.com/win | iex
