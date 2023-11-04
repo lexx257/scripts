@@ -15,4 +15,5 @@ Installs everything i want on a new Install. Here's a list:
 - NVCleaninstall (for Nvidia users)
 - MSI Afterburner
 - Opens up a tool by CTT to tweak some things (Uninstalling Edge, Ultimate Power Plan etc.)
+
 I recommend to do a Windows update after this script. 
