@@ -3,6 +3,7 @@ Scripts i frequently use
 
 ## CleanCache
 Cleans every cache on Windows. Also runs diskcleanup and disk-defrag. Clears Windows Store cache and flushes ipconfig
+*WARNING: SCRIPT CLEARS DONWLOADS FOLDER*
 
 ## InstallEverything
 Installs everything i want on a new Install. Here's a list:
