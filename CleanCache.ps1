@@ -7,8 +7,6 @@ rm -Path C:\Windows\Prefetch\*.* -r -force
 rm -Path C:\Windows\Temp\*.* -r -force
 rm -Path C:\Users\vince\AppData\Local\NVIDIA\DXCache\*.* -r -force
 rm -Path C:\Users\vince\AppData\Local\NVIDIA\GLCache\*.* -r -force
-rm -Path C:\Users\vince\AppData\Local\Google\Chrome\User` Data\Default\Cache\Cache_Data\*.* -r -force
-rm -Path C:\Users\vince\AppData\Local\Google\Chrome\User` Data\Default\GPUCache\*.* -r -force
 rm -Path C:\Users\vince\Downloads\*.* -r -force
 rm -Path C:\Windows\SoftwareDistribution\*.* -r -force
 rm -Path C:\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\*.* -r -force
