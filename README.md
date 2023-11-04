@@ -13,5 +13,6 @@ Installs everything i want on a new Install. Heres a list:
 - Notepad-- (light version of Notepadd++)
 - Spotify
 - NVCleaninstall (for Nvidia users)
+- MSI Afterburner
 - Opens up a tool by CTT to tweak some things (Uninstalling Edge, Ultimate Power Plan etc.)
 I recommend to do a Windows update after this script. 
