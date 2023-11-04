@@ -5,7 +5,7 @@ Scripts i frequently use
 Cleans every cache on Windows. Also runs diskcleanup and disk-defrag. Clears Windows Store cache and flushes ipconfig
 
 ## InstallEverything
-Installs everything i want on a new Install. Heres a list:
+Installs everything i want on a new Install. Here's a list:
 - Newest Powershell
 - Thorium (like ungoogled chrome but faster)
 - Discord
