@@ -12,4 +12,5 @@ Installs everything i want on a new Install. Heres a list:
 - Steam
 - Notepad-- (light version of Notepadd++)
 - Spotify
+- NVCleaninstall (for Nvidia users)
 - Opens up a tool by CTT to tweak some things (Uninstalling Edge, Ultimate Power Plan etc.)
