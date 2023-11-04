@@ -7,4 +7,5 @@ winget install Valve.Steam --silent --uninstall-previous
 winget install ndd.Notepad --silent --uninstall-previous
 winget install Spotify.Spotify--silent --uninstall-previous
 winget install TechPowerUp.NVCleanstall --silent --uninstall-previous
+winget install Guru3D.Afterburner --silent --uninstall-previous
 irm https://christitus.com/win | iex
